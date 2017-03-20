@@ -51,6 +51,7 @@
 		B85F03F81E7FCE1700B211F1 /* CRGoodsDetailServiceProtocolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CRGoodsDetailServiceProtocolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B85F03FC1E7FCE1700B211F1 /* CRGoodsDetailServiceProtocolUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CRGoodsDetailServiceProtocolUITests.m; sourceTree = "<group>"; };
 		B85F03FE1E7FCE1700B211F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B85F040A1E7FCEAE00B211F1 /* CRGoodsDetailServiceProtoco.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CRGoodsDetailServiceProtoco.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 		B85F03D61E7FCE1700B211F1 /* CRGoodsDetailServiceProtocol */ = {
 			isa = PBXGroup;
 			children = (
+				B85F040A1E7FCEAE00B211F1 /* CRGoodsDetailServiceProtoco.h */,
 				B85F03DA1E7FCE1700B211F1 /* AppDelegate.h */,
 				B85F03DB1E7FCE1700B211F1 /* AppDelegate.m */,
 				B85F03DD1E7FCE1700B211F1 /* ViewController.h */,
